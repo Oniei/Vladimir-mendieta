@@ -1,0 +1,49 @@
+body{
+	font-family: 'Trebuchet MS';
+	background-color:#fff8e1;
+}
+h2{
+	font-family: 'Arial';
+	color:#795548;
+}	
+ p, ul,#musica{
+	font-family:'Calibri';
+	color:#880e4f;
+}
+.parte{
+	text-align:center;
+	justify-content:center;
+}
+#avatar img{
+	width:250px;
+	transition: 300ms;
+	position: relative;
+	padding: 8;
+}
+#avatar img:hover{
+	transform:scale(1.20);
+}
+#inv:hover{
+	filter: invert(100%);
+}
+body, section{
+	padding: 8;
+}
+#comida{
+	font-family: 'Helvetica Neue';
+}
+#c1{
+	background-color:#795548;
+	width: 160px;
+	border: 1px solid black;
+}
+#c2{
+	background-color:#fff8e1;
+	width: 160px;
+	border: 1px solid black;
+}
+#c3{
+	background-color:#880e4f;
+	width: 160px;
+	border: 1px solid black;
+}
